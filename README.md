@@ -10,11 +10,11 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/readme/screenshot1.png)
+![Primera parte de la página web](imagenes/1.png)
 
 Experiencia:
 
-![Experiencia](imagenes/readme/screenshot2.png)
+![Experiencia](imagenes/2.png)
 
 Proyectos:
 
